@@ -1,0 +1,4 @@
+interface:
+  display_name: "project-handoff · 项目交接"
+  short_description: "保存项目当前状态、关键决策与下一步，让新会话核实后继续工作"
+  default_prompt: "使用 $project-handoff 检查当前项目，创建或更新 PROJECT_HANDOFF.md，并给出新会话接手指令。"
